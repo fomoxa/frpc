@@ -1,0 +1,63 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Ha Duy Thang
+
+This work - the fRPC design document, including this repository's README and
+the documents under en/, vi/ and any other translation directory - is licensed
+under the Creative Commons Attribution 4.0 International License.
+
+To view a copy of this license, visit:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+or send a letter to:
+
+    Creative Commons
+    PO Box 1866
+    Mountain View, CA 94042
+    USA
+
+--------------------------------------------------------------------------------
+SUMMARY (not a substitute for the license)
+--------------------------------------------------------------------------------
+
+You are free to:
+
+  Share  - copy and redistribute the material in any medium or format
+  Adapt  - remix, transform, and build upon the material
+
+for any purpose, even commercially.
+
+Under the following term:
+
+  Attribution - You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+No additional restrictions - You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+The full legal code at the URL above is the authoritative text. This summary
+has no legal force.
+
+--------------------------------------------------------------------------------
+SUGGESTED ATTRIBUTION
+--------------------------------------------------------------------------------
+
+    "fRPC - The RPC Layer for Fomoxa" by Ha Duy Thang,
+    licensed under CC BY 4.0
+    https://creativecommons.org/licenses/by/4.0/
+
+--------------------------------------------------------------------------------
+NOTE ON SCOPE
+--------------------------------------------------------------------------------
+
+This repository contains design documents only. It ships no source code, and it
+is not the normative Fomoxa Binary Protocol specification - that specification
+lives in its own repository and is unaffected by anything described here.
+
+Software implementations of fRPC are independent projects. Authors of such
+implementations may choose any license for their software, provided they do not
+misrepresent the origin of these documents or remove the required attribution
+when redistributing the documents themselves.
